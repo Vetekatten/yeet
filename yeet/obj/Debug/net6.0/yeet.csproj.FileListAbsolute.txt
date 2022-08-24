@@ -1,0 +1,15 @@
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\bin\Debug\net6.0\yeet.exe
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\bin\Debug\net6.0\yeet.deps.json
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\bin\Debug\net6.0\yeet.runtimeconfig.json
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\bin\Debug\net6.0\yeet.dll
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\bin\Debug\net6.0\yeet.pdb
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\yeet.csproj.AssemblyReference.cache
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\yeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\yeet.AssemblyInfoInputs.cache
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\yeet.AssemblyInfo.cs
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\yeet.csproj.CoreCompileInputs.cache
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\yeet.dll
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\refint\yeet.dll
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\yeet.pdb
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\yeet.genruntimeconfig.cache
+C:\Users\wilund.joen\Documents\testproject\null\yeet\yeet\obj\Debug\net6.0\ref\yeet.dll
